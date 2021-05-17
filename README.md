@@ -32,6 +32,7 @@ Hoje utilizamos no backend:
 
 Implemente as especificações da spec que existe do frontend para o [real-world-app](https://github.com/gothinkster/realworld/tree/master/spec#frontend-specs).
 Você pode usar qualquer um desses [projetos](https://codebase.show/projects/realworld?category=frontend) como refêrencia.
+Não precisa implementar você pode utilizar um projeto de backend do [real-world-app](https://codebase.show/projects/realworld?category=backend) que já esteja pronto para fazer a integração
 
 <br>
 
