@@ -31,10 +31,9 @@ Hoje utilizamos no backend:
 <br>
 
 Implemente as especificações da spec que existe do frontend para o [real-world-app](https://github.com/gothinkster/realworld/tree/master/spec#frontend-specs).
-Você pode usar qualquer um desses [projetos](https://codebase.show/projects/realworld?category=frontend) como refêrencia.
+Você pode usar qualquer um desses [projetos](https://codebase.show/projects/realworld?category=frontend) como refêrencia. Você pode usar um [backend](https://codebase.show/projects/realworld?category=backend) que já esteja pronto
 
 <br>
-
 Hoje utilizamos no frontEnd:
 
 - firebase hosting
