@@ -1,6 +1,6 @@
 # Teste-Vojo
 
-Hoje no vojo possuimos vagas para backend, frontend e fullstack.Caso você possua interesse basta selecionar o teste ao qual se identificar. Quanto a implementação esperamos que você faça o que achar necessario para nos mostrar o até onde vai seu nivel de conhecimento, para isso você tem liberdade para utilizar qualquer, linguagem, framework, biblioteca, IDE, padrão de projeto, etc...
+Hoje no vojo possuímos vagas para backend, frontend e fullstack. Caso você possua interesse, basta selecionar o teste ao qual se identificar. Quanto à implementação, esperamos que você faça o que achar necessário para nos mostrar até onde vai seu nivel de conhecimento. Para isso, você tem liberdade de utilizar qualquer linguagem, framework, biblioteca, ou IDE. A aplicação de *Padrões de Projeto* e *clean code* serão considerados como pontos extras.
 O que será avaliado é seu conhecimento como programador então...
 <br>
 <p align="center">
@@ -31,9 +31,10 @@ Hoje utilizamos no backend:
 <br>
 
 Implemente as especificações da spec que existe do frontend para o [real-world-app](https://github.com/gothinkster/realworld/tree/master/spec#frontend-specs).
-Você pode usar qualquer um desses [projetos](https://codebase.show/projects/realworld?category=frontend) como refêrencia. Você pode usar um [backend](https://codebase.show/projects/realworld?category=backend) que já esteja pronto
+Você pode usar qualquer um desses [projetos](https://codebase.show/projects/realworld?category=frontend) como refêrencia.
 
 <br>
+
 Hoje utilizamos no frontEnd:
 
 - firebase hosting
