@@ -1,6 +1,6 @@
 # Teste-Vojo
 
-Hoje no vojo possuímos vagas para backend, frontend e fullstack. Caso você possua interesse, basta selecionar o teste ao qual se identificar. Quanto à implementação, esperamos que você faça o que achar necessário para nos mostrar até onde vai seu nivel de conhecimento. Para isso, você tem liberdade de utilizar qualquer linguagem, framework, biblioteca, ou IDE. A aplicação de *Padrões de Projeto* e *clean code* serão considerados como pontos extras.
+Hoje no Vojo possuímos vagas para backend, frontend e fullstack. Caso você possua interesse, basta selecionar o teste ao qual se identificar. Quanto à implementação, esperamos que você faça o que achar necessário para nos mostrar até onde vai seu nível de conhecimento. Para isso, você tem liberdade de utilizar qualquer linguagem, framework, biblioteca, ou IDE. A aplicação de *Padrões de Projeto* e *clean code* serão considerados como pontos extras.
 O que será avaliado é seu conhecimento como programador então...
 <br>
 <p align="center">
